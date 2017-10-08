@@ -1,0 +1,12 @@
+This java project has is about the card game called war. It has 3 different variations
+of war and has a logger than prints to stdout as well as to a logfile. I used an abstract
+class for War and the 3 variations inherit attributes from this class.
+
+I have included a UML diagram as well. Use violet to open.
+My gitignore ignores all eclipse file settings and the bin directory.
+
+clone this repo and import in eclipse or you could do it all on the commandline.
+Although I did not create a makefile for this project as I did everything in eclipse.
+
+I have included a Runner so there is an entry point and one can use the classes I wrote.
+Also there are unit tests as well which invoke the program.

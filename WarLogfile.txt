@@ -1,0 +1,3043 @@
+Chris plays SIX of DIAMONDS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of CLUBS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of SPADES as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays JACK of CLUBS as up card
+Nathan plays EIGHT of CLUBS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays EIGHT of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays SEVEN of SPADES as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+War!
+Chris plays EIGHT of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays FOUR of SPADES as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SIX of DIAMONDS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays TWO of SPADES as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of SPADES as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of CLUBS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays EIGHT of CLUBS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays JACK of CLUBS as up card
+Nathan plays JACK of SPADES as up card
+War!
+Chris plays THREE of SPADES as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays QUEEN of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays EIGHT of CLUBS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays QUEEN of HEARTS as up card
+Nathan plays JACK of SPADES as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays JACK of SPADES as up card
+Nathan plays EIGHT of CLUBS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays EIGHT of CLUBS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays SIX of CLUBS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays EIGHT of CLUBS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays JACK of SPADES as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays QUEEN of HEARTS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays ACE of CLUBS as up card
+Nathan plays ACE of DIAMONDS as up card
+War!
+Chris plays TEN of HEARTS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays EIGHT of HEARTS as up card
+Nathan plays QUEEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays FIVE of HEARTS as up card
+Nathan plays QUEEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 14, Nathan 38
+Chris plays THREE of DIAMONDS as up card
+Nathan plays QUEEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 13, Nathan 39
+Chris plays KING of CLUBS as up card
+Nathan plays QUEEN of HEARTS as up card
+Chris wins the round
+Score is Chris 14, Nathan 38
+Chris plays QUEEN of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 15, Nathan 37
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 14, Nathan 38
+Chris plays QUEEN of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 15, Nathan 37
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 16, Nathan 36
+Chris plays THREE of DIAMONDS as up card
+Nathan plays EIGHT of HEARTS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of HEARTS as up card
+Nathan wins the round
+Score is Chris 14, Nathan 38
+Chris plays QUEEN of HEARTS as up card
+Nathan plays EIGHT of HEARTS as up card
+Chris wins the round
+Score is Chris 15, Nathan 37
+Chris plays EIGHT of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 16, Nathan 36
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 17, Nathan 35
+Chris plays THREE of DIAMONDS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays FIVE of HEARTS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays EIGHT of HEARTS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 14, Nathan 38
+Chris plays QUEEN of HEARTS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 13, Nathan 39
+Chris plays KING of CLUBS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 12, Nathan 40
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 11, Nathan 41
+Chris plays FOUR of DIAMONDS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 10, Nathan 42
+Chris plays FOUR of CLUBS as up card
+Nathan plays ACE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 9, Nathan 43
+Chris plays ACE of SPADES as up card
+Nathan plays ACE of DIAMONDS as up card
+War!
+Chris plays EIGHT of SPADES as up card
+Nathan plays FOUR of DIAMONDS as up card
+Chris wins the round
+Score is Chris 12, Nathan 40
+Chris plays FOUR of CLUBS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 11, Nathan 41
+Chris plays ACE of DIAMONDS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 12, Nathan 40
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 13, Nathan 39
+Chris plays FOUR of CLUBS as up card
+Nathan plays KING of CLUBS as up card
+Nathan wins the round
+Score is Chris 12, Nathan 40
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays KING of CLUBS as up card
+Nathan wins the round
+Score is Chris 11, Nathan 41
+Chris plays ACE of DIAMONDS as up card
+Nathan plays KING of CLUBS as up card
+Chris wins the round
+Score is Chris 12, Nathan 40
+Chris plays KING of CLUBS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 13, Nathan 39
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 14, Nathan 38
+Chris plays FOUR of CLUBS as up card
+Nathan plays QUEEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 13, Nathan 39
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays QUEEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 12, Nathan 40
+Chris plays KING of CLUBS as up card
+Nathan plays QUEEN of HEARTS as up card
+Chris wins the round
+Score is Chris 13, Nathan 39
+Chris plays QUEEN of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 14, Nathan 38
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 15, Nathan 37
+Chris plays FOUR of CLUBS as up card
+Nathan plays EIGHT of HEARTS as up card
+Nathan wins the round
+Score is Chris 14, Nathan 38
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of HEARTS as up card
+Nathan wins the round
+Score is Chris 13, Nathan 39
+Chris plays QUEEN of HEARTS as up card
+Nathan plays EIGHT of HEARTS as up card
+Chris wins the round
+Score is Chris 14, Nathan 38
+Chris plays EIGHT of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 15, Nathan 37
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 16, Nathan 36
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 16, Nathan 36
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 17, Nathan 35
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays THREE of DIAMONDS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays FOUR of CLUBS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays FIVE of HEARTS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 14, Nathan 38
+Chris plays EIGHT of HEARTS as up card
+Nathan plays JACK of SPADES as up card
+Nathan wins the round
+Score is Chris 13, Nathan 39
+Chris plays QUEEN of HEARTS as up card
+Nathan plays JACK of SPADES as up card
+Chris wins the round
+Score is Chris 14, Nathan 38
+Chris plays JACK of SPADES as up card
+Nathan plays EIGHT of HEARTS as up card
+Chris wins the round
+Score is Chris 15, Nathan 37
+Chris plays EIGHT of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 16, Nathan 36
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 17, Nathan 35
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 19, Nathan 33
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays EIGHT of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays FOUR of CLUBS as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays FIVE of SPADES as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays THREE of DIAMONDS as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays FIVE of HEARTS as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays EIGHT of HEARTS as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 14, Nathan 38
+Chris plays JACK of SPADES as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 13, Nathan 39
+Chris plays QUEEN of HEARTS as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 12, Nathan 40
+Chris plays KING of CLUBS as up card
+Nathan plays ACE of CLUBS as up card
+Nathan wins the round
+Score is Chris 11, Nathan 41
+Chris plays ACE of DIAMONDS as up card
+Nathan plays ACE of CLUBS as up card
+War!
+Chris plays ACE of HEARTS as up card
+Nathan plays QUEEN of HEARTS as up card
+Chris wins the round
+Score is Chris 14, Nathan 38
+Chris plays KING of CLUBS as up card
+Nathan plays JACK of SPADES as up card
+Chris wins the round
+Score is Chris 15, Nathan 37
+Chris plays JACK of SPADES as up card
+Nathan plays EIGHT of HEARTS as up card
+Chris wins the round
+Score is Chris 16, Nathan 36
+Chris plays EIGHT of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 17, Nathan 35
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays EIGHT of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 17, Nathan 35
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 19, Nathan 33
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays EIGHT of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays FIVE of SPADES as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays FOUR of CLUBS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays FIVE of HEARTS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays EIGHT of HEARTS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays JACK of SPADES as up card
+Nathan plays TEN of HEARTS as up card
+Chris wins the round
+Score is Chris 16, Nathan 36
+Chris plays TEN of HEARTS as up card
+Nathan plays EIGHT of HEARTS as up card
+Chris wins the round
+Score is Chris 17, Nathan 35
+Chris plays EIGHT of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays EIGHT of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 19, Nathan 33
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays EIGHT of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays FOUR of CLUBS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays FIVE of SPADES as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays THREE of DIAMONDS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays EIGHT of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+War!
+Chris plays JACK of SPADES as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays FIVE of SPADES as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays FOUR of CLUBS as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays SIX of CLUBS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays FIVE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays THREE of DIAMONDS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays FOUR of CLUBS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays FIVE of SPADES as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays SIX of CLUBS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays FIVE of HEARTS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays TEN of HEARTS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays EIGHT of HEARTS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays JACK of SPADES as up card
+Nathan plays JACK of CLUBS as up card
+War!
+Chris plays ACE of CLUBS as up card
+Nathan plays TEN of HEARTS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays EIGHT of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 19, Nathan 33
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays EIGHT of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+War!
+Chris plays TEN of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays FIVE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays FIVE of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays FOUR of SPADES as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays TWO of DIAMONDS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FOUR of SPADES as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of SPADES as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays TWO of DIAMONDS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of SPADES as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of DIAMONDS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of SPADES as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays THREE of SPADES as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays TWO of SPADES as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays FOUR of CLUBS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays THREE of DIAMONDS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays FIVE of SPADES as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays SIX of CLUBS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays FIVE of HEARTS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays JACK of CLUBS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays EIGHT of HEARTS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 16, Nathan 36
+Chris plays TEN of HEARTS as up card
+Nathan plays KING of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 15, Nathan 37
+Chris plays KING of CLUBS as up card
+Nathan plays KING of DIAMONDS as up card
+War!
+Chris plays ACE of CLUBS as up card
+Nathan plays EIGHT of HEARTS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays TEN of HEARTS as up card
+Nathan plays JACK of CLUBS as up card
+Nathan wins the round
+Score is Chris 17, Nathan 35
+Chris plays KING of DIAMONDS as up card
+Nathan plays JACK of CLUBS as up card
+Chris wins the round
+Score is Chris 18, Nathan 34
+Chris plays JACK of CLUBS as up card
+Nathan plays TEN of HEARTS as up card
+Chris wins the round
+Score is Chris 19, Nathan 33
+Chris plays TEN of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays TEN of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays FIVE of HEARTS as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays TWO of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays FOUR of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays SIX of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays TWO of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays SIX of CLUBS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays THREE of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays TWO of SPADES as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays THREE of SPADES as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+War!
+Chris plays TEN of HEARTS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays THREE of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays TWO of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays THREE of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays SIX of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays THREE of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+War!
+Chris plays TWO of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays FOUR of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays FIVE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays FIVE of SPADES as up card
+Nathan plays FIVE of DIAMONDS as up card
+War!
+Chris plays SEVEN of SPADES as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays TWO of SPADES as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FOUR of SPADES as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays THREE of SPADES as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays TWO of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays FOUR of CLUBS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays SIX of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays THREE of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays FIVE of SPADES as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of SPADES as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays SIX of CLUBS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays EIGHT of CLUBS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+War!
+Chris plays TEN of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of SPADES as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays FIVE of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays FIVE of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+War!
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays FIVE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays FOUR of CLUBS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays TWO of DIAMONDS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays FIVE of SPADES as up card
+Nathan plays FIVE of DIAMONDS as up card
+War!
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays THREE of SPADES as up card
+Nathan plays FOUR of SPADES as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of CLUBS as up card
+Nathan plays FOUR of SPADES as up card
+War!
+Chris plays TWO of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+War!
+Chris plays FIVE of SPADES as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays SIX of CLUBS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays SEVEN of HEARTS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays TWO of SPADES as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SEVEN of HEARTS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays THREE of SPADES as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays FOUR of SPADES as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of SPADES as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays THREE of DIAMONDS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SIX of CLUBS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays FIVE of HEARTS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays TEN of HEARTS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays JACK of CLUBS as up card
+Nathan plays JACK of HEARTS as up card
+War!
+Chris plays EIGHT of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+War!
+Chris plays KING of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays TEN of HEARTS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays SEVEN of SPADES as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays SIX of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SIX of CLUBS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays FOUR of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays SIX of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays SEVEN of HEARTS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays SEVEN of HEARTS as up card
+Nathan plays SIX of DIAMONDS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of CLUBS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays TWO of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays SEVEN of HEARTS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FIVE of SPADES as up card
+Nathan plays FIVE of CLUBS as up card
+War!
+Chris plays SIX of DIAMONDS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FIVE of CLUBS as up card
+War!
+Chris plays THREE of SPADES as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays TWO of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays FOUR of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+War!
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays TWO of SPADES as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FOUR of CLUBS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays FIVE of CLUBS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays THREE of DIAMONDS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays FOUR of SPADES as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SIX of CLUBS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SEVEN of SPADES as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays TEN of HEARTS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays JACK of HEARTS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays FIVE of HEARTS as up card
+Nathan plays QUEEN of SPADES as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays KING of DIAMONDS as up card
+Nathan plays QUEEN of SPADES as up card
+Chris wins the round
+Score is Chris 19, Nathan 33
+Chris plays QUEEN of SPADES as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays QUEEN of SPADES as up card
+Nathan plays EIGHT of CLUBS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays FIVE of HEARTS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays EIGHT of CLUBS as up card
+Nathan plays JACK of HEARTS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays QUEEN of SPADES as up card
+Nathan plays JACK of HEARTS as up card
+Chris wins the round
+Score is Chris 20, Nathan 32
+Chris plays JACK of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays EIGHT of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays EIGHT of CLUBS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays FIVE of HEARTS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays EIGHT of CLUBS as up card
+Nathan plays TEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays JACK of HEARTS as up card
+Nathan plays TEN of HEARTS as up card
+Chris wins the round
+Score is Chris 21, Nathan 31
+Chris plays TEN of HEARTS as up card
+Nathan plays EIGHT of CLUBS as up card
+Chris wins the round
+Score is Chris 22, Nathan 30
+Chris plays EIGHT of CLUBS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays EIGHT of CLUBS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+War!
+Chris plays JACK of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+War!
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays SIX of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of CLUBS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays FIVE of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays FIVE of CLUBS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays TWO of SPADES as up card
+Nathan plays SEVEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SEVEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FOUR of CLUBS as up card
+Nathan plays SEVEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays FIVE of CLUBS as up card
+Nathan plays SEVEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of HEARTS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays SEVEN of SPADES as up card
+Nathan plays SEVEN of HEARTS as up card
+War!
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays SIX of CLUBS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays TWO of SPADES as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays TWO of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays TWO of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays THREE of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays TWO of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays SEVEN of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays TWO of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays FOUR of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays TWO of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays TWO of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FOUR of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+War!
+Chris plays SEVEN of HEARTS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays TWO of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays TWO of SPADES as up card
+Nathan plays TWO of DIAMONDS as up card
+War!
+Chris plays FOUR of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+War!
+Chris plays SIX of DIAMONDS as up card
+Nathan plays THREE of CLUBS as up card
+Chris wins the round
+Score is Chris 42, Nathan 10
+Chris plays NINE of HEARTS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 41, Nathan 11
+Chris plays QUEEN of DIAMONDS as up card
+Nathan plays TEN of CLUBS as up card
+Chris wins the round
+Score is Chris 42, Nathan 10
+Chris plays TEN of CLUBS as up card
+Nathan plays NINE of HEARTS as up card
+Chris wins the round
+Score is Chris 43, Nathan 9
+Chris plays NINE of HEARTS as up card
+Nathan plays NINE of CLUBS as up card
+War!
+Chris plays QUEEN of DIAMONDS as up card
+Nathan plays TEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 46, Nathan 6
+Chris plays TWO of CLUBS as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 45, Nathan 7
+Chris plays NINE of CLUBS as up card
+Nathan plays SEVEN of CLUBS as up card
+Chris wins the round
+Score is Chris 46, Nathan 6
+Chris plays SEVEN of CLUBS as up card
+Nathan plays TWO of CLUBS as up card
+Chris wins the round
+Score is Chris 47, Nathan 5
+Chris plays TWO of CLUBS as up card
+Nathan plays TWO of HEARTS as up card
+War!
+Chris plays NINE of CLUBS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 44, Nathan 8
+Chris plays TEN of DIAMONDS as up card
+Nathan plays SIX of SPADES as up card
+Chris wins the round
+Score is Chris 45, Nathan 7
+Chris plays SIX of SPADES as up card
+Nathan plays TWO of HEARTS as up card
+Chris wins the round
+Score is Chris 46, Nathan 6
+Chris plays TWO of HEARTS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 45, Nathan 7
+Chris plays SIX of SPADES as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 44, Nathan 8
+Chris plays TEN of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 43, Nathan 9
+Chris plays TEN of CLUBS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 42, Nathan 10
+Chris plays NINE of HEARTS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 41, Nathan 11
+Chris plays QUEEN of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 40, Nathan 12
+Chris plays TWO of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 39, Nathan 13
+Chris plays FOUR of HEARTS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays THREE of CLUBS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays THREE of SPADES as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays FIVE of SPADES as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays TWO of SPADES as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of CLUBS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays SIX of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays THREE of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays SIX of CLUBS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SEVEN of HEARTS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays FIVE of CLUBS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays FOUR of SPADES as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of SPADES as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays FIVE of HEARTS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 22, Nathan 30
+Chris plays TEN of HEARTS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 21, Nathan 31
+Chris plays EIGHT of CLUBS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 20, Nathan 32
+Chris plays JACK of HEARTS as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 19, Nathan 33
+Chris plays QUEEN of SPADES as up card
+Nathan plays KING of HEARTS as up card
+Nathan wins the round
+Score is Chris 18, Nathan 34
+Chris plays KING of DIAMONDS as up card
+Nathan plays KING of HEARTS as up card
+War!
+Chris plays JACK of CLUBS as up card
+Nathan plays JACK of HEARTS as up card
+War!
+Chris plays KING of CLUBS as up card
+Nathan plays TEN of HEARTS as up card
+Chris wins the round
+Score is Chris 23, Nathan 29
+Chris plays QUEEN of SPADES as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays QUEEN of SPADES as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays FIVE of HEARTS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays QUEEN of SPADES as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Chris wins the round
+Score is Chris 24, Nathan 28
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 25, Nathan 27
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+War!
+Chris plays QUEEN of SPADES as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of CLUBS as up card
+War!
+Chris plays FOUR of SPADES as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SEVEN of HEARTS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of HEARTS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays FIVE of CLUBS as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of HEARTS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays FIVE of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of HEARTS as up card
+Nathan plays SEVEN of SPADES as up card
+War!
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of SPADES as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of DIAMONDS as up card
+War!
+Chris plays SEVEN of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+War!
+Chris plays SEVEN of SPADES as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+War!
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays TWO of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays TWO of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays TWO of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays TWO of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+War!
+Chris plays FIVE of SPADES as up card
+Nathan plays THREE of CLUBS as up card
+Chris wins the round
+Score is Chris 39, Nathan 13
+Chris plays TWO of SPADES as up card
+Nathan plays FOUR of HEARTS as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays THREE of SPADES as up card
+Nathan plays FOUR of HEARTS as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays THREE of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays FOUR of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+War!
+Chris plays FIVE of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 39, Nathan 13
+Chris plays THREE of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 40, Nathan 12
+Chris plays TWO of SPADES as up card
+Nathan plays TWO of DIAMONDS as up card
+War!
+Chris plays FOUR of HEARTS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays THREE of SPADES as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of DIAMONDS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of CLUBS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of SPADES as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays SIX of DIAMONDS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FOUR of SPADES as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of HEARTS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of CLUBS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of SPADES as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays FIVE of CLUBS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays SEVEN of HEARTS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 24, Nathan 28
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays QUEEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 23, Nathan 29
+Chris plays QUEEN of SPADES as up card
+Nathan plays QUEEN of DIAMONDS as up card
+War!
+Chris plays KING of HEARTS as up card
+Nathan plays SEVEN of HEARTS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays QUEEN of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays FIVE of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+War!
+Chris plays QUEEN of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+War!
+Chris plays SIX of CLUBS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of HEARTS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FOUR of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays SEVEN of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays FOUR of SPADES as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of SPADES as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of DIAMONDS as up card
+War!
+Chris plays SEVEN of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+War!
+Chris plays FIVE of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 38, Nathan 14
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 39, Nathan 13
+Chris plays TWO of DIAMONDS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays THREE of DIAMONDS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of CLUBS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of SPADES as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of SPADES as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FIVE of SPADES as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays SIX of DIAMONDS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays FIVE of HEARTS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays SEVEN of SPADES as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays FIVE of CLUBS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SIX of CLUBS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays NINE of HEARTS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays QUEEN of DIAMONDS as up card
+Nathan plays NINE of HEARTS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays NINE of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays NINE of HEARTS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+War!
+Chris plays NINE of HEARTS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of HEARTS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+War!
+Chris plays FIVE of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays THREE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 38, Nathan 14
+Chris plays THREE of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+War!
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of CLUBS as up card
+Chris wins the round
+Score is Chris 41, Nathan 11
+Chris plays TWO of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+War!
+Chris plays THREE of CLUBS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays FOUR of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+War!
+Chris plays FIVE of HEARTS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays TWO of SPADES as up card
+Nathan plays FOUR of HEARTS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of SPADES as up card
+Nathan plays FOUR of HEARTS as up card
+War!
+Chris plays FIVE of SPADES as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays TWO of SPADES as up card
+Nathan plays FOUR of HEARTS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of HEARTS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of HEARTS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays TWO of SPADES as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of HEARTS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays SEVEN of SPADES as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of CLUBS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays FIVE of CLUBS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays NINE of HEARTS as up card
+Nathan plays TEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 25, Nathan 27
+Chris plays QUEEN of DIAMONDS as up card
+Nathan plays TEN of CLUBS as up card
+Chris wins the round
+Score is Chris 26, Nathan 26
+Chris plays TEN of CLUBS as up card
+Nathan plays NINE of HEARTS as up card
+Chris wins the round
+Score is Chris 27, Nathan 25
+Chris plays NINE of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays FIVE of CLUBS as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of CLUBS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SIX of CLUBS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays NINE of HEARTS as up card
+Nathan plays EIGHT of DIAMONDS as up card
+Chris wins the round
+Score is Chris 28, Nathan 24
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+Chris wins the round
+Score is Chris 29, Nathan 23
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 30, Nathan 22
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays FIVE of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays SEVEN of SPADES as up card
+War!
+Chris plays NINE of HEARTS as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of HEARTS as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of HEARTS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays TWO of SPADES as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of HEARTS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+War!
+Chris plays FIVE of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays TWO of SPADES as up card
+Nathan plays FOUR of SPADES as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays FOUR of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays TWO of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays FOUR of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays FOUR of HEARTS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 38, Nathan 14
+Chris plays FOUR of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 39, Nathan 13
+Chris plays THREE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays FOUR of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+War!
+Chris plays TWO of SPADES as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays SIX of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays THREE of SPADES as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 38, Nathan 14
+Chris plays THREE of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays FIVE of HEARTS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 39, Nathan 13
+Chris plays FOUR of CLUBS as up card
+Nathan plays FOUR of SPADES as up card
+War!
+Chris plays THREE of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+War!
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of CLUBS as up card
+Chris wins the round
+Score is Chris 44, Nathan 8
+Chris plays TWO of SPADES as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 43, Nathan 9
+Chris plays TWO of DIAMONDS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 42, Nathan 10
+Chris plays FOUR of SPADES as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 41, Nathan 11
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 40, Nathan 12
+Chris plays THREE of CLUBS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 39, Nathan 13
+Chris plays FIVE of SPADES as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays SIX of DIAMONDS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of CLUBS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays THREE of SPADES as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays FIVE of HEARTS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FOUR of HEARTS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays SEVEN of SPADES as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays SIX of CLUBS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 30, Nathan 22
+Chris plays FIVE of CLUBS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 29, Nathan 23
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 28, Nathan 24
+Chris plays SEVEN of DIAMONDS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 27, Nathan 25
+Chris plays NINE of HEARTS as up card
+Nathan plays TEN of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 26, Nathan 26
+Chris plays TEN of CLUBS as up card
+Nathan plays TEN of DIAMONDS as up card
+War!
+Chris plays SEVEN of HEARTS as up card
+Nathan plays SEVEN of DIAMONDS as up card
+War!
+Chris plays QUEEN of SPADES as up card
+Nathan plays FIVE of CLUBS as up card
+Chris wins the round
+Score is Chris 31, Nathan 21
+Chris plays NINE of HEARTS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of SPADES as up card
+Nathan wins the round
+Score is Chris 31, Nathan 21
+Chris plays NINE of HEARTS as up card
+Nathan plays SEVEN of SPADES as up card
+Chris wins the round
+Score is Chris 32, Nathan 20
+Chris plays SEVEN of SPADES as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 33, Nathan 19
+Chris plays SIX of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays FOUR of HEARTS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FOUR of HEARTS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays FOUR of HEARTS as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+War!
+Chris plays SEVEN of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+War!
+Chris plays THREE of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of DIAMONDS as up card
+War!
+Chris plays SEVEN of SPADES as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays SIX of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 37, Nathan 15
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 38, Nathan 14
+Chris plays FOUR of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+War!
+Chris plays SIX of DIAMONDS as up card
+Nathan plays THREE of CLUBS as up card
+Chris wins the round
+Score is Chris 41, Nathan 11
+Chris plays THREE of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+War!
+Chris plays THREE of CLUBS as up card
+Nathan plays TWO of DIAMONDS as up card
+Chris wins the round
+Score is Chris 44, Nathan 8
+Chris plays FOUR of SPADES as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 45, Nathan 7
+Chris plays TWO of SPADES as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 44, Nathan 8
+Chris plays FOUR of SPADES as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 43, Nathan 9
+Chris plays THREE of DIAMONDS as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 42, Nathan 10
+Chris plays TWO of DIAMONDS as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 41, Nathan 11
+Chris plays FOUR of HEARTS as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 40, Nathan 12
+Chris plays THREE of SPADES as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 39, Nathan 13
+Chris plays THREE of CLUBS as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays FIVE of HEARTS as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays FOUR of CLUBS as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays SIX of DIAMONDS as up card
+Nathan plays SIX of SPADES as up card
+War!
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FIVE of HEARTS as up card
+War!
+Chris plays SEVEN of SPADES as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 41, Nathan 11
+Chris plays FOUR of CLUBS as up card
+Nathan plays FOUR of HEARTS as up card
+War!
+Chris plays SIX of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 44, Nathan 8
+Chris plays TWO of DIAMONDS as up card
+Nathan plays FOUR of SPADES as up card
+Nathan wins the round
+Score is Chris 43, Nathan 9
+Chris plays FOUR of HEARTS as up card
+Nathan plays FOUR of SPADES as up card
+War!
+Chris plays THREE of CLUBS as up card
+Nathan plays TWO of SPADES as up card
+Chris wins the round
+Score is Chris 46, Nathan 6
+Chris plays TWO of DIAMONDS as up card
+Nathan plays TWO of HEARTS as up card
+War!
+Chris plays TWO of SPADES as up card
+Nathan plays TWO of CLUBS as up card
+War!
+Chris plays FOUR of HEARTS as up card
+Nathan plays SIX of HEARTS as up card
+Nathan wins the round
+Score is Chris 41, Nathan 11
+Chris plays THREE of CLUBS as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 40, Nathan 12
+Chris plays FOUR of CLUBS as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 39, Nathan 13
+Chris plays SIX of SPADES as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays FIVE of HEARTS as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays THREE of SPADES as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays FIVE of SPADES as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 35, Nathan 17
+Chris plays SIX of CLUBS as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays SIX of DIAMONDS as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 33, Nathan 19
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays SEVEN of CLUBS as up card
+Nathan wins the round
+Score is Chris 32, Nathan 20
+Chris plays SEVEN of SPADES as up card
+Nathan plays SEVEN of CLUBS as up card
+War!
+Chris plays EIGHT of DIAMONDS as up card
+Nathan plays SIX of DIAMONDS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays SIX of CLUBS as up card
+Nathan wins the round
+Score is Chris 34, Nathan 18
+Chris plays SEVEN of CLUBS as up card
+Nathan plays SIX of CLUBS as up card
+Chris wins the round
+Score is Chris 35, Nathan 17
+Chris plays SIX of CLUBS as up card
+Nathan plays FIVE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 36, Nathan 16
+Chris plays FIVE of DIAMONDS as up card
+Nathan plays FIVE of SPADES as up card
+War!
+Chris plays SEVEN of CLUBS as up card
+Nathan plays FIVE of HEARTS as up card
+Chris wins the round
+Score is Chris 39, Nathan 13
+Chris plays THREE of SPADES as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 38, Nathan 14
+Chris plays FIVE of SPADES as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 37, Nathan 15
+Chris plays FIVE of HEARTS as up card
+Nathan plays SIX of SPADES as up card
+Nathan wins the round
+Score is Chris 36, Nathan 16
+Chris plays SIX of CLUBS as up card
+Nathan plays SIX of SPADES as up card
+War!
+Chris plays SEVEN of CLUBS as up card
+Nathan plays FIVE of SPADES as up card
+Chris wins the round
+Score is Chris 39, Nathan 13
+Chris plays FIVE of HEARTS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 40, Nathan 12
+Chris plays THREE of SPADES as up card
+Nathan plays FOUR of CLUBS as up card
+Nathan wins the round
+Score is Chris 39, Nathan 13
+Chris plays FIVE of HEARTS as up card
+Nathan plays FOUR of CLUBS as up card
+Chris wins the round
+Score is Chris 40, Nathan 12
+Chris plays FOUR of CLUBS as up card
+Nathan plays THREE of SPADES as up card
+Chris wins the round
+Score is Chris 41, Nathan 11
+Chris plays THREE of SPADES as up card
+Nathan plays THREE of CLUBS as up card
+War!
+Chris plays FIVE of HEARTS as up card
+Nathan plays TWO of HEARTS as up card
+Chris wins the round
+Score is Chris 44, Nathan 8
+Chris plays NINE of CLUBS as up card
+Nathan plays TWO of CLUBS as up card
+Chris wins the round
+Score is Chris 45, Nathan 7
+Chris plays TWO of CLUBS as up card
+Nathan plays SIX of HEARTS as up card
+Nathan wins the round
+Score is Chris 44, Nathan 8
+Chris plays NINE of CLUBS as up card
+Nathan plays SIX of HEARTS as up card
+Chris wins the round
+Score is Chris 45, Nathan 7
+Chris plays SIX of HEARTS as up card
+Nathan plays TWO of CLUBS as up card
+Chris wins the round
+Score is Chris 46, Nathan 6
+Chris plays TWO of CLUBS as up card
+Nathan plays FOUR of SPADES as up card
+Nathan wins the round
+Score is Chris 45, Nathan 7
+Chris plays SIX of HEARTS as up card
+Nathan plays FOUR of SPADES as up card
+Chris wins the round
+Score is Chris 46, Nathan 6
+Chris plays FOUR of SPADES as up card
+Nathan plays TWO of CLUBS as up card
+Chris wins the round
+Score is Chris 47, Nathan 5
+Chris plays TWO of CLUBS as up card
+Nathan plays THREE of DIAMONDS as up card
+Nathan wins the round
+Score is Chris 46, Nathan 6
+Chris plays FOUR of SPADES as up card
+Nathan plays THREE of DIAMONDS as up card
+Chris wins the round
+Score is Chris 47, Nathan 5
+Chris plays THREE of DIAMONDS as up card
+Nathan plays TWO of CLUBS as up card
+Chris wins the round
+Score is Chris 48, Nathan 4
+Chris plays TWO of CLUBS as up card
+Nathan plays TWO of DIAMONDS as up card
+War!
+Chris plays FOUR of SPADES as up card
+Nathan plays FOUR of HEARTS as up card
+War!
+
